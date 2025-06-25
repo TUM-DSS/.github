@@ -8,9 +8,6 @@ Fundamentally, market design asks how the design of the rules and regulations of
 The study includes auction markets, but also markets without money such as matching markets, which found application in the assignment of students to courses or in school choice programs. 
 We are contributing to various strands in this literature including optimization in market design, equilibrium computation, mechanism design, and experiments.
 
-**Members:**  Prof. Dr. Martin Bichler, Dr. Halil I. Bayrak, Janik Buergermeister, Teodora Dobos, Julius Durmann, Markus Ewert, Kassian Köck, Laura Mathews, Matthias Oberlechner, Fabian R. Pieroth.
-
-
 ### Code & Software
 This organization hosts research software, algorithms, and tools developed by our group.
 
